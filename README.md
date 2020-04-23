@@ -4,3 +4,4 @@ Jeden z pierwszych projektów programistycznych na zaliczenie (2 semestr). Używ
 
 conda install -c conda-forge gmaps
 conda install -c conda-forge googlemaps
+x
