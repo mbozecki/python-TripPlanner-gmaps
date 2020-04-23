@@ -19,7 +19,6 @@ import googlemaps
 import sys
 import datetime
 from datetime import timedelta
-from kivy.garden.mapview import MapView
 import requests
 
 gmaps.configure(api_key="AIzaSyCANn6wVutvF2Ul8CJoTCTa4oIWMMDm2DM")
