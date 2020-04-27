@@ -21,8 +21,8 @@ import datetime
 from datetime import timedelta
 import requests
 
-gmaps.configure(api_key="AIzaSyCANn6wVutvF2Ul8CJoTCTa4oIWMMDm2DM")
-GoogleMaps=googlemaps.Client(key="AIzaSyCANn6wVutvF2Ul8CJoTCTa4oIWMMDm2DM") #dla skrócenia komend
+gmaps.configure(api_key="KLUCZAPI")
+GoogleMaps=googlemaps.Client(key="KLUCZAPI") #dla skrócenia komend
 
 class LoginScreen(FloatLayout):  # ekran nr 1
 
